@@ -6,12 +6,12 @@
 #include <WiFiManager.h> 
 
 // ===== Konfigurasi WiFi dan Firebase =====
-#define WIFI_SSID "password nya glenn2702"
-#define WIFI_PASSWORD "glenn2702"
-#define Web_API_KEY "AIzaSyALkKo0s2XQ45M7p0yMECzqatIolb2K2s0"
-#define DATABASE_URL "https://healthbot-ceb8d-default-rtdb.asia-southeast1.firebasedatabase.app" 
-#define USER_EMAIL "glennimmanuel8@gmail.com"
-#define USER_PASS "lovepetra27"
+#define WIFI_SSID "<WIFI-SSID>"
+#define WIFI_PASSWORD "<WIFI-PASS>"
+#define Web_API_KEY "<GEMINI-API-KEY>"
+#define DATABASE_URL "<API-KEY-FIREBASE>" 
+#define USER_EMAIL "<EMAIL-USERNAME>"
+#define USER_PASS "<EMAIL-PASS>"
 
 // ===== Konfigurasi NTP untuk timestamp =====
 #define NTP_SERVER "pool.ntp.org"
